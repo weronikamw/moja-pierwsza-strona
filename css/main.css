@@ -1,0 +1,15 @@
+.link{
+  text-decoration: none;
+}
+
+.header-container{
+  display:flex;
+  justify-content: center;
+}
+
+.container{
+max-width: 1200px;
+margin: auto;
+height: 600px;
+background: gray;
+}
